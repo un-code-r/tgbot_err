@@ -1,0 +1,6 @@
+aiogram<3.0
+asyncio
+gino
+asyncpg
+environs~=8.0.0
+pydantic~=1.8.2
